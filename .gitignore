@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+dist
+node_modules
+main.exe
+Cryptography.exe
+Ligths_on_home.exe
+Picture_scalling.exe
